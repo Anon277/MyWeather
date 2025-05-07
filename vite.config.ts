@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react-swc'
 // https://vite.dev/config/
 
 export default defineConfig({
-  base: '/myweather/', // замените на название вашего репозитория
+  base: '/MyWeather/', // замените на название вашего репозитория
   plugins: [react()],
 });
